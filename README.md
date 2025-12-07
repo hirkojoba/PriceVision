@@ -25,7 +25,7 @@ An intelligent stock price trend prediction application powered by machine learn
 
 ## Tech Stack
 
-- **Python 3.8+**
+- **Python**
 - **Machine Learning**: scikit-learn (Random Forest, Gradient Boosting)
 - **Data Processing**: pandas, numpy
 - **Data Source**: yfinance (Yahoo Finance API)
