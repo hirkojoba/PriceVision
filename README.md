@@ -33,6 +33,7 @@ An intelligent stock price trend prediction application powered by machine learn
 - **Web Framework**: Streamlit
 - **PDF Generation**: ReportLab
 - **Testing**: pytest
+- **Cloud Deployment**: Railway
 
 ---
 
